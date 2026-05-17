@@ -32,7 +32,7 @@ It is designed to strengthen core programming concepts including:
 ## 🛠 Technologies Used
 
 - Python 3.x
-- :contentReference[oaicite:1]{index=1}
+
 
 ---
 
