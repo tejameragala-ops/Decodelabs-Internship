@@ -90,13 +90,14 @@ Bot: Goodbye. Have a great day!
 
 ## 📸 Project Screenshots
 
-Add your screenshots inside the `screenshots` folder.
+### Code Implementation
+![Code Screenshot](screenshots/Screenshot%202026-05-17%20113330.png)
 
-Examples:
+### Terminal Output
+![Output Screenshot](screenshots/Screenshot%202026-05-17%20114537.png)
 
-- Code Screenshot
-- Terminal Execution Screenshot
-- Project Folder Screenshot
+### Project Structure
+![Project Screenshot](screenshots/Screenshot%202026-05-17%20114757.png)
 
 ---
 
